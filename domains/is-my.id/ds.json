@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "fox-sign"
+  },
+  "records": {
+    "AAAA": [],
+    "CNAME": "630057704f2ce4ef.vercel-dns-017.com"
+  },
+  "proxied": false,
+  "description": "Redirection to Deck Study"
+}
